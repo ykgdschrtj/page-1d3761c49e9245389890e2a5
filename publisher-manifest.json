@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "00a2c3b7a240993246f68b9e",
+  "owner": "ykgdschrtj",
+  "repo": "page-1d3761c49e9245389890e2a5",
+  "title": "234Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1d3761c49e9245389890e2a5",
+      "a": "234Cloud",
+      "b": "2027最新官网",
+      "entity": "234Cloud",
+      "brand": "234Cloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ec65abf2101a3d012037d0ab684a590dc95458da82a2c8fa611a96a5452a74ad",
+      "content": {
+        "primary_entity": "234Cloud",
+        "keyword1": "234Cloud",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，主打海外加速订阅，适合需要稳定跨境线路的轻度用户、流媒体观众与小型团队。基础版每月 15 元提供 100GB 流量与 3 台设备，旗舰版每月 35 元升级到 300GB 流量、5 台设备并加入 IPLC 专线游戏加速优化，团队版每月 85 元覆盖 20 台设备与 1000GB 流量。按年付可分别降至 150 元、350 元与 850 元，选择时优先核对设备数量与月度流量。",
+          "AI_HERO_SUBTITLE": "海外加速订阅按需选",
+          "AI_HERO_INTRO": "234Cloud 提供按月与按年订阅的海外加速服务，套餐围绕流量、设备数量与线路类型区分。轻度使用可选基础版，追剧与游戏可看旗舰版，多设备团队则适合团队版。按年付通常更划算。",
+          "AI_VISUAL_TITLE": "234Cloud 海外加速订阅",
+          "AI_HIGHLIGHT_1": "基础版 15 元 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备 1000GB",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三处比较三档订阅，选到符合日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备需求",
+          "AI_FEATURE_TITLE_1": "按月按年付",
+          "AI_FEATURE_TEXT_1": "基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_2": "设备数量分层",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，手机与电脑同时在线按设备数计入。",
+          "AI_FEATURE_TITLE_3": "线路按需升级",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版有 VIP 专属高带宽节点，流媒体解锁范围逐级扩大。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器各有对应客户端，导入订阅前先确认系统版本与客户端名称，再按文档完成配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版面向流媒体与游戏，团队版支持 20 台设备与 1000GB 流量，按人数和流量挑更直接。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，顺序清晰即可减少试错。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "先数清常用设备数量与每月大致流量，再在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TEXT_2": "确认常用设备系统的版本要求，以及对应客户端是否在支持范围内。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，打开对应客户端按文档导入，随后检查节点与连接状态。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "先按设备数和流量定档，再按客户端文档导入订阅，即可开始使用 234Cloud。",
+          "AI_FAQ_ANSWER_1": "在客户端中导入订阅链接即可。不同客户端导入方式略有差异，如 Clash 系导入 YAML 订阅，Shadowrocket 扫码或粘贴链接。",
+          "AI_FAQ_ANSWER_2": "套餐按同时在线设备数限制：基础版 3 台，旗舰版 5 台，团队版 20 台。超限时新设备无法连接，需升级套餐或断开其他设备。",
+          "AI_FAQ_ANSWER_3": "可以。在客户端配置中调整代理模式，让特定应用或域名走代理，其余流量直连，避免影响本地网络访问。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可。年付更优惠，如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。按需选择，随时可更换周期。",
+          "AI_FAQ_ANSWER_5": "在套餐页面完成支付后，订阅信息会同步到账户。登录用户中心即可复制订阅链接，一般几分钟内生效。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_2": "设备数量超出限制怎么办？",
+          "AI_FAQ_QUESTION_3": "可以在不影响本地网络的情况下使用吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "购买后如何获取订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "falemoniu.com",
+    "host": "falemoniu.com"
+  },
+  "file_hashes": {
+    "index.html": "e7b687c5362871cdfd7ac6cd222b3b14f18657a3bb7a9dfbfb86eb365d05c266",
+    "sitemap.xml": "63aa247ff8943bd340d477269daff88adc7ac9913e5395c4c813f458b86e60ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9a3db8124fdc7069d18ec5df5c16705c9eeb278389381a981a5a856267c8c11f",
+    "robots.txt": "0855dcf39a304e52e1cf2f1dfde06ba3092126259efb6055ea1c34a24a9b4042",
+    "e33e7cd952cb6d5ff7a563edfd021c15.txt": "d8b2eac03c09cd15d2091d9d676a0005b506920d686170c00ff796a0245bc41e"
+  },
+  "revision": "220c5c0cfb8d128489d34e1b9a71493b8e958b7e7bb09f6d2b24d88407037a8c"
+}
